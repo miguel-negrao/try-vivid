@@ -2,7 +2,6 @@ name:                try-vivid
 version:             0.1.0.0
 license:             BSD3
 author:              "Miguel Negrão"
-maintainer:          "miguel.negrao@friendlyvirus.org"
 copyright:           "2021 Miguel Negrão"
 
 #add packages here
